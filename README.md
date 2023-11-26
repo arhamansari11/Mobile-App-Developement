@@ -1,6 +1,6 @@
 # React Native Mobile App Development
 
-Welcome to the React Native Mobile App Development repository! This resource is designed to guide you through the essentials of building cross-platform mobile applications using React Native. Whether you're new to mobile development or seeking to enhance your skills, this repository provides a structured roadmap, code examples, and hands-on projects. Get ready to dive into the world of React Native and turn your ideas into mobile apps!
+Welcome to the React Native Mobile App Development repository! This resource is designed to guide you through the essentials of building cross-platform mobile applications using React Native. Whether you're new to mobile development or seeking to enhance your skills, this repository provides a structured roadmap, code examples, and hands-on projects. Get ready to dive into the world of React Native and turn your ideas into mobile apps
 
 ## Syllabus
 
