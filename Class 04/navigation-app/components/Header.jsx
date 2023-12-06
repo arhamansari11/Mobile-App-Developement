@@ -7,7 +7,7 @@ import { StyleSheet, Text, View, TouchableOpacity } from 'react-native';
 const Header = () => {
   return (
     <View style={styles.container}>
-    <Text>Open up App.js to start working on your app!</Text>
+    <Text>Open up App.js to start working on your app</Text>
     <StatusBar style="auto" />
     <TouchableOpacity
       onPress={() => alert('This is a button!')}
